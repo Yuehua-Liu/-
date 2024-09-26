@@ -12,6 +12,11 @@
 
 方便研究者閱覽
 
+## 使用方法
+1. 複製我的 Colab 到自己雲端：[Colab 程式碼檔案](https://colab.research.google.com/drive/1zVqlCP1pbMoH2r_dfNlOUsS93EFbUXEx#scrollTo=nm8GPNZ849Js&uniqifier=1)
+2. 自行修改【使用者自行填寫區】的參數，將要下載的目標網址替換，自行設定下載資料夾以及 PDF 輸出檔名
+3. 逐個 Cell 按照順序執行，注意，下載分頁的環節會比較久，須耐心等候
+
 ## 未來優化
 若有希望優化的功能
 以下開放許願，歡迎私訊~
